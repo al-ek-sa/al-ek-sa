@@ -1,17 +1,11 @@
 # Лишик Александра Юрьевна
-
 ---
-
 ## 🎓 Образование
-
 **Университет ИТМО**  
 *Системное и прикладное программное обеспечение*  
 2025 — настоящее время
-
 ---
-
 ## 🌐 Контакты
-
 <p align="left">
   <a href="https://t.me/alexandra_lishik">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
